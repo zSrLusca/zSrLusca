@@ -42,7 +42,7 @@ Me chamo Lucas Raniery, tenho 24 anos e sou natural de São Paulo. Atualmente, f
 
 ### 💻 Projetos Recentes
 
-- [Meu Primeiro Site](https://github.com/nykael/meu-primeiro-site) - Site básico com HTML, CSS e JS.  
+- [Host-Market](https://github.com/nykael/Host-Market) - Site básico com HTML, CSS e JS.  
 - [App Previsão do Tempo](https://github.com/zSrLusca/previsao-do-tempo) - App mobile usando React Native e WebView.  
 
 ---
