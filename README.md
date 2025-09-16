@@ -58,7 +58,7 @@ Me chamo Lucas Raniery, tenho 24 anos e sou natural de São Paulo. Atualmente, f
 
 ### 📫 Contato
 
-<p align="left">
+<p align="center">
     <a href="https://www.linkedin.com/in/lucas-raniery-696247382" target="_blank">
         <img 
             alt="LinkedIn" 
@@ -73,5 +73,4 @@ Me chamo Lucas Raniery, tenho 24 anos e sou natural de São Paulo. Atualmente, f
             src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
         />
     </a>
-  
 </p>
