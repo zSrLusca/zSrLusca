@@ -37,7 +37,6 @@ Me chamo Lucas Raniery, tenho 24 anos e sou natural de São Paulo. Atualmente, f
 <img align="left" alt="Node.js" title="Node.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 </p>
 
-
 <br /><br />
 
 ### 💻 Projetos Recentes
@@ -49,12 +48,14 @@ Me chamo Lucas Raniery, tenho 24 anos e sou natural de São Paulo. Atualmente, f
 
 ### 📊 Estatísticas GitHub
 
-<p>
-  <img align="left" height="180" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=zSrLusca&show_icons=true&theme=tokyonight" />
-  <img align="left" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zSrLusca&theme=tokyonight&layout=compact&langs_count=9&custom_title=Tecnologias" />
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=zSrLusca&show_icons=true&theme=tokyonight" />
+</p>
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zSrLusca&theme=tokyonight&layout=compact&langs_count=9&custom_title=Tecnologias" />
 </p>
 
-<br /><br />
+<br />
 
 ### 📫 Contato
 
