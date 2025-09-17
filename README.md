@@ -49,9 +49,12 @@ Me chamo Lucas Raniery, tenho 24 anos e sou natural de São Paulo. Atualmente, f
 ### 📊 Estatísticas GitHub
 
 <!--START_STATS-->
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=zSrLusca&show_icons=true&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zSrLusca&theme=tokyonight&layout=compact&langs_count=9&custom_title=Tecnologias" />
+</p>
 <!--END_STATS-->
 
-<br />
 
 ### 📫 Contato
 
