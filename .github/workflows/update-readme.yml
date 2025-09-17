@@ -1,0 +1,14 @@
+name: Atualizar GitHub Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Atualiza todo dia à meia-noite
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Atualizar README
+        run: echo "Workflow funcionando"
